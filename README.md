@@ -1,5 +1,3 @@
-# Sentiment-Analysis-on-Women-s-Clothing-Reviews-NLP-
-This project applies natural language processing (NLP) techniques to analyze customer reviews for women’s clothing products. The goal is to classify sentiment (positive, neutral, negative), extract key insights and assist businesses in understanding what drives customer opinion.
 # 💬 Sentiment Analysis on Women’s Clothing Reviews (NLP)
 
 ## 📘 Overview  
