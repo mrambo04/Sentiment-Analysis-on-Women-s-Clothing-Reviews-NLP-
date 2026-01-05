@@ -6,7 +6,7 @@ This project applies natural language processing (NLP) techniques to analyze cus
 ## 🎯 Objective  
 To build a text-analysis pipeline that:  
 - Processes raw review text, cleans and transforms it  
-- Classifies review sentiment using machine learning  
+- Classifies review sentiment using machine learning   
 - Provides actionable insights on customer feedback for product and service improvement
 
 ## 🧰 Tools & Technologies  
