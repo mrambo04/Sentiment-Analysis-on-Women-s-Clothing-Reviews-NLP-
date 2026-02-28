@@ -9,7 +9,7 @@ To build a text-analysis pipeline that:
 - Classifies review sentiment using machine learning   
 - Provides actionable insights on customer feedback for product and service improvement 
 
-## 🧰 Tools & Technologies  
+## 🧰 Tools & Technologies   
 Python • Pandas • NumPy • NLTK / spaCy • Scikit-Learn • Matplotlib / Seaborn • Jupyter Notebook
 
 ## 🧮 Approach  
